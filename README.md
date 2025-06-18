@@ -43,5 +43,5 @@ Output Layer:      10 nodes (digits 0–9)
 Loss Function:     CrossEntropyLoss
 Optimizer:         Adam
 ```
-🙋 Author
+## 🙋 Author
 Harsh Singh
